@@ -1,2 +1,5 @@
 *.class
 *.log
+.metals/metals.h2.db
+.metals/metals.lock.db
+aula01/.bsp/sbt.json
